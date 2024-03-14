@@ -1,19 +1,17 @@
-# Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe | Full Tutorial 2023
-
-![Copy of Copy of Copy of Fullstack Twitter Clone](https://github.com/AntonioErdeljac/next13-ai-saas/assets/23248726/c47e604a-b50b-4eb0-b420-fda20908f522)
+# Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe 
 
 
 
-This is a repository for Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe | Full Tutorial 2023.
 
-[VIDEO TUTORIAL](https://www.youtube.com/watch?v=ffJ38dBzrlY)
+
+T
 
 Features:
 
-- Tailwind design
+
 - Tailwind animations and effects
 - Full responsiveness
-- Clerk Authentication (Email, Google, 9+ Social Logins)
+- Clerk Authentication 
 - Client form validation and handling using react-hook-form
 - Server error handling using react-toast
 - Image Generation Tool (Open AI)
@@ -29,14 +27,12 @@ Features:
 - How to reuse layouts
 - Folder structure in Next 13 App Router
 
-### Prerequisites
 
-**Node version 18.x.x**
 
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next13-ai-saas.git
+git clone https://github.com/Agastya18/saasify.git
 ```
 
 ### Install packages
